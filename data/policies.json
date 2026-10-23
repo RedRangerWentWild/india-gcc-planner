@@ -1,0 +1,42 @@
+{
+  "source": "Flexiple GCC statistics: State GCC policies in India",
+  "sourceUrl": "https://flexiple.com/gcc/statistics",
+  "note": "Four states have published a GCC policy or scheme Flexiple could source to an official page or the policy document itself.",
+  "verified": [
+    {
+      "state": "Karnataka",
+      "policy": "Karnataka Global Capability Centres Policy 2024 to 2029",
+      "summary": "Targets 500 new capability centres, taking the state past 1,000 by 2029, with 350,000 new jobs and $50 billion of economic output. Incentive bands include a Beyond Bengaluru tier for centres set up outside the capital.",
+      "eligibilityNote": null,
+      "originalSource": "Government of Karnataka and India Briefing",
+      "originalUrl": "https://eitbt.karnataka.gov.in/it/public/policy5/en"
+    },
+    {
+      "state": "Gujarat",
+      "policy": "Gujarat Global Capability Centre Policy 2025 to 2030",
+      "summary": "Targets a minimum of 250 new GCC units, more than 50,000 jobs and Rs 10,000 crore of investment in the state.",
+      "eligibilityNote": null,
+      "originalSource": "Department of Science and Technology, Government of Gujarat",
+      "originalUrl": "https://dst.gujarat.gov.in/Home/GujaratGlobalCapabilityCenter"
+    },
+    {
+      "state": "Maharashtra",
+      "policy": "Maharashtra GCC Policy 2025",
+      "summary": "Targets around 400 new GCCs and about 400,000 high skilled jobs by 2030 against Rs 50,600 crore of investment, with incentives to push centres to Nagpur, Nashik and Chhatrapati Sambhajinagar.",
+      "eligibilityNote": "Incentives favour centres outside Mumbai and Pune.",
+      "originalSource": "Government of Maharashtra, Industries Department",
+      "originalUrl": "https://industry.maharashtra.gov.in/sites/default/files/2025-09/gcc-policy-paraesa-naota-english.pdf"
+    },
+    {
+      "state": "Tamil Nadu",
+      "policy": "Special scheme to promote global capability centres",
+      "summary": "A payroll subsidy scheme announced in the 2024 to 2025 state budget, running to March 2027, aimed at bringing 50 GCCs to the state.",
+      "eligibilityNote": "Limited to Forbes Global 2000 and Fortune 1000 parents committing at least 200 direct jobs.",
+      "originalSource": "Government of Tamil Nadu, 2024 to 2025 budget",
+      "originalUrl": "https://www.ey.com/en_in/insights/consulting/exploring-the-shift-gccs-moving-to-tier-2-cities-for-cost-and-talent-advantages"
+    }
+  ],
+  "couldNotVerify": [
+    "Telangana, Uttar Pradesh, Rajasthan and Madhya Pradesh GCC policies. No official policy document could be fetched for any of them."
+  ]
+}

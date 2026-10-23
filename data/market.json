@@ -1,0 +1,23 @@
+{
+  "source": "Flexiple GCC statistics: third-party figures Flexiple cites, each with the page it read them on. Somebody else's research, not Flexiple's own numbers.",
+  "sourceUrl": "https://flexiple.com/gcc/statistics",
+  "asOf": "Aug 2026",
+  "national": [
+    { "figure": "2,117 GCCs in India", "detail": "across 3,728 individual centres, up 32 percent since FY2021", "period": "FY2026", "publisher": "Zinnov and nasscom, India GCC Landscape 2026", "url": "https://zinnov.com/centers-of-excellence/zinnov-nasscom-india-gcc-landscape-2026-report/" },
+    { "figure": "2.36 million people employed by GCCs in India", "detail": "up from about 1.9 million in FY2024", "period": "FY2026", "publisher": "Zinnov and nasscom, India GCC Landscape 2026", "url": "https://zinnov.com/centers-of-excellence/zinnov-nasscom-india-gcc-landscape-2026-report/" },
+    { "figure": "$98.4 billion revenue booked by India GCCs", "detail": "against $64.6 billion in FY2024", "period": "FY2026", "publisher": "Zinnov and nasscom, India GCC Landscape 2026", "url": "https://zinnov.com/centers-of-excellence/zinnov-nasscom-india-gcc-landscape-2026-report/" },
+    { "figure": "over 200 new GCCs entered India", "detail": "in the two years to early 2026", "period": "2024 to 2025", "publisher": "JLL India", "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million" },
+    { "figure": "31 million sq ft of office space leased by GCCs in India", "detail": "a record year. Colliers puts the same year nearer 28 million sq ft, so treat the figure as a range", "period": "2025", "publisher": "JLL India", "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million" }
+  ],
+  "disagreements": [
+    { "what": "GCCs in India", "theirs": "2,117", "theirSource": "Zinnov and nasscom", "flexiple": "536 verified", "note": "Flexiple counts only centres it can trace to a source. A verified set, not a census." }
+  ],
+  "byCity": [
+    { "city": "Bangalore", "figure": "Over 900 GCC units, 34 to 39 percent of India's GCC market.", "period": "February 2026", "publisher": "JLL India", "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million" },
+    { "city": "Bangalore", "figure": "Karnataka hosts over 500 global capability centres, about 35 percent of India's GCC workforce and more than 600,000 GCC employees.", "period": "2026", "publisher": "Government of Karnataka, Department of Electronics, IT and BT", "url": "https://eitbt.karnataka.gov.in/it/public/policy5/en" },
+    { "city": "Hyderabad", "figure": "Hosts roughly 20 percent of India's GCCs, and attracted 40 new GCCs in 2025 to October, the highest of any Indian city.", "period": "2025 to 2026", "publisher": "Telangana Socio Economic Outlook 2026, reported by Deccan Chronicle", "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-emerges-as-gcc-hub-hosts-20-of-indias-gccs-1945301" },
+    { "city": "Hyderabad", "figure": "Captured 20 to 23 percent of India's GCC office demand.", "period": "2022 to 2025", "publisher": "JLL India", "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million" },
+    { "city": "Pune", "figure": "Accounted for 15 to 20 percent of national GCC activity over the past four years.", "period": "2022 to 2025", "publisher": "JLL India", "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million" }
+  ],
+  "noCityFigure": "Per city GCC counts for Chennai, Mumbai and Delhi NCR (no underlying source)."
+}

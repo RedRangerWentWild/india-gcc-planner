@@ -1,0 +1,40 @@
+{
+  "sources": {
+    "pricing": "https://flexiple.com/gcc",
+    "rules": "https://flexiple.com/gcc/india"
+  },
+  "paths": [
+    "Contractor",
+    "Managed Teams",
+    "Your own GCC"
+  ],
+  "managedFeeUsdPerPersonPerMonth": 299,
+  "managedFeeLabel": "$299 per person per month + salary at cost, during the build",
+  "entitySetupCost": null,
+  "entitySetupCostLabel": "Entity setup and workspace are scoped once we map your requirements",
+  "breakEvenHeadcount": 25,
+  "rules": [
+    {
+      "title": "Weeks to a working team",
+      "text": "Your team starts under managed employment while the entity is set up in parallel, so you are not waiting on incorporation to hire."
+    },
+    {
+      "title": "4 to 6 months to your entity",
+      "text": "Private Limited incorporation, PAN, TAN, GST, PF, ESIC, banking, statutory auditor: filed in your company's name, then handed over."
+    },
+    {
+      "title": "Break-even at 25 people",
+      "text": "Past 25 people, entity economics beat managed employment, and the gap widens with every hire."
+    },
+    {
+      "title": "One resident director",
+      "text": "Indian law requires one India-resident director (182+ days a year). Flexiple provides one during the build and helps you appoint your own."
+    }
+  ],
+  "cta": "Book a Strategy Call",
+  "couldNotVerify": [
+    "Third-party per-city GCC counts for Chennai, Mumbai and Delhi NCR (no underlying source). The table above uses Flexiple's own verified directory counts.",
+    "Any count of GCCs in tier-2 cities as a group.",
+    "Telangana, Uttar Pradesh, Rajasthan and Madhya Pradesh GCC policies."
+  ]
+}

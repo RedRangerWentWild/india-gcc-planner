@@ -1,0 +1,19 @@
+{
+  "asOf": "Aug 2026",
+  "unit": "INR lakh per year, annual CTC median, all levels, from disclosed records behind a 25-record publish gate",
+  "source": "Flexiple GCC statistics: Our own numbers, measured not surveyed",
+  "sourceUrl": "https://flexiple.com/gcc/statistics",
+  "totals": { "trackedProfessionals": "29.9M+", "companies25plus": "1,188", "verifiedGccs": 536 },
+  "cities": [
+    { "city": "Bangalore", "state": "Karnataka", "trackedProfessionals": "7.1M+", "companies25plus": "1,000+", "verifiedGccs": 437, "sweMedianL": 15.7, "seniorMedianL": 32.5, "cityPage": "https://flexiple.com/gcc/bengaluru" },
+    { "city": "Hyderabad", "state": "Telangana", "trackedProfessionals": "5.3M+", "companies25plus": "700+", "verifiedGccs": 299, "sweMedianL": 10.4, "seniorMedianL": 24.2, "cityPage": "https://flexiple.com/gcc/hyderabad" },
+    { "city": "Chennai", "state": "Tamil Nadu", "trackedProfessionals": "4.1M+", "companies25plus": "600+", "verifiedGccs": 244, "sweMedianL": 7.6, "seniorMedianL": 19.1, "cityPage": "https://flexiple.com/gcc/chennai" },
+    { "city": "Mumbai", "state": "Maharashtra", "trackedProfessionals": "5.8M+", "companies25plus": "700+", "verifiedGccs": 283, "sweMedianL": 9.7, "seniorMedianL": 22.8, "cityPage": "https://flexiple.com/gcc/mumbai" },
+    { "city": "Pune", "state": "Maharashtra", "trackedProfessionals": "2.4M+", "companies25plus": "500+", "verifiedGccs": 169, "sweMedianL": 9.5, "seniorMedianL": 22.3, "cityPage": "https://flexiple.com/gcc/pune" },
+    { "city": "Delhi", "state": "Delhi NCR", "trackedProfessionals": "5M+", "companies25plus": "700+", "verifiedGccs": 277, "sweMedianL": 14.1, "seniorMedianL": 24.0, "cityPage": "https://flexiple.com/gcc/delhi" }
+  ],
+  "caveats": [
+    "A city median matters less than depth in the specific roles you hire. Check the per-role pools on each city page before the headline numbers.",
+    "Deeper markets pay more because more companies compete for the same people. Bangalore is the deepest pool and prices like it."
+  ]
+}
